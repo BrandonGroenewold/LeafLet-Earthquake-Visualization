@@ -16,4 +16,4 @@
 ### Add Tetonic Plates
 - Insert the data to display tetonic plates on the map and a legend.
 
-![alt text] (/Resources/map.png)
+![alt text] (/LeafLet-challenge/Leaflet/Resources/map.png)
