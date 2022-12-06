@@ -16,4 +16,4 @@
 ### Add Tetonic Plates
 - Insert the data to display tetonic plates on the map and a legend.
 
-![alt text] (/Leaflet/Resources/map.png)
+![alt text](/Leaflet/Resources/map.png)
